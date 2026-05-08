@@ -1,0 +1,65 @@
+{
+  "location": "Cary, NC, USA",
+  "url": "https://forecast.weather.gov/MapClick.php?lat=35.7914727&lon=-78.781141",
+  "generated_at": "2026-05-08T21:19:41.630836+00:00",
+  "current_conditions": {
+    "temperature": "",
+    "description": "Mostly Cloudy"
+  },
+  "seven_day_forecast": [
+    {
+      "name": "Tonight",
+      "short_desc": "Increasing Clouds",
+      "temperature": "Low: 54 °F",
+      "detail": "Tonight: Increasing clouds, with a low around 54. Calm wind becoming south around 5 mph. "
+    },
+    {
+      "name": "Saturday",
+      "short_desc": "Slight Chance Showers then Mostly Sunny",
+      "temperature": "High: 77 °F",
+      "detail": "Saturday: A slight chance of showers between 11am and noon.  Mostly sunny, with a high near 77. South wind 5 to 10 mph, with gusts as high as 18 mph.  Chance of precipitation is 20%."
+    },
+    {
+      "name": "Saturday Night",
+      "short_desc": "Mostly Cloudy",
+      "temperature": "Low: 59 °F",
+      "detail": "Saturday Night: Mostly cloudy, with a low around 59. Light southwest wind. "
+    },
+    {
+      "name": "Sunday",
+      "short_desc": "Mostly Sunny",
+      "temperature": "High: 84 °F",
+      "detail": "Sunday: Mostly sunny, with a high near 84. Calm wind becoming southwest around 5 mph in the afternoon. "
+    },
+    {
+      "name": "Sunday Night",
+      "short_desc": "Mostly Clear then Chance Showers",
+      "temperature": "Low: 62 °F",
+      "detail": "Sunday Night: A chance of showers and thunderstorms between 2am and 5am, then a chance of showers after 5am.  Partly cloudy, with a low around 62. Calm wind becoming south around 5 mph after midnight.  Chance of precipitation is 30%. New rainfall amounts of less than a tenth of an inch, except higher amounts possible in thunderstorms. "
+    },
+    {
+      "name": "Monday",
+      "short_desc": "Showers",
+      "temperature": "High: 75 °F",
+      "detail": "Monday: Showers, with thunderstorms also possible after 11am.  High near 75. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch, except higher amounts possible in thunderstorms. "
+    },
+    {
+      "name": "Monday Night",
+      "short_desc": "Showers Likely then Partly Cloudy",
+      "temperature": "Low: 49 °F",
+      "detail": "Monday Night: Showers likely before 8pm.  Mostly cloudy, with a low around 49. Chance of precipitation is 60%."
+    },
+    {
+      "name": "Tuesday",
+      "short_desc": "Sunny",
+      "temperature": "High: 70 °F",
+      "detail": "Tuesday: Sunny, with a high near 70."
+    },
+    {
+      "name": "Tuesday Night",
+      "short_desc": "Mostly Clear",
+      "temperature": "Low: 51 °F",
+      "detail": "Tuesday Night: Mostly clear, with a low around 51."
+    }
+  ]
+}

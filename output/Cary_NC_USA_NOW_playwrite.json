@@ -1,0 +1,9 @@
+{
+  "location": "Cary, NC, USA",
+  "url": "https://forecast.weather.gov/MapClick.php?lat=35.7914727&lon=-78.781141",
+  "generated_at": "2026-05-08T21:19:19.946531+00:00",
+  "current_conditions": {
+    "temperature": "",
+    "description": "Mostly Cloudy"
+  }
+}

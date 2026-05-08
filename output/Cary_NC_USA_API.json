@@ -1,0 +1,483 @@
+{
+  "location": "Cary, NC, USA",
+  "resolved_city": "Cary, NC",
+  "coordinates": {
+    "lat": 35.7882893,
+    "lon": -78.7812081
+  },
+  "timezone": "America/New_York",
+  "grid": {
+    "office": "RAH",
+    "x": 69,
+    "y": 57
+  },
+  "generated_at": "2026-05-08T21:20:05.769630+00:00",
+  "current_conditions": {
+    "station": "KRDU",
+    "timestamp": "2026-05-08T21:00:00+00:00",
+    "description": "Mostly Clear",
+    "temperature_f": 71.6,
+    "temperature_c": 22,
+    "feels_like_f": 71.0,
+    "feels_like_c": 21.7,
+    "dewpoint_f": 41.0,
+    "dewpoint_c": 5,
+    "humidity_pct": 33.0,
+    "wind_speed_mph": 20.7,
+    "wind_gust_mph": null,
+    "wind_direction_deg": 200,
+    "visibility_miles": 10.0,
+    "pressure_mb": 1014.6
+  },
+  "hourly_forecast": [
+    {
+      "time": "2026-05-08T17:00:00-04:00",
+      "temperature_f": 71,
+      "feels_like_f": 71.0,
+      "dewpoint_f": 40.0,
+      "humidity_pct": 32,
+      "wind_speed": "3 mph",
+      "wind_direction": "S",
+      "short_forecast": "Sunny",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-08T18:00:00-04:00",
+      "temperature_f": 70,
+      "feels_like_f": 70.0,
+      "dewpoint_f": 41.0,
+      "humidity_pct": 35,
+      "wind_speed": "3 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Clear",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-08T19:00:00-04:00",
+      "temperature_f": 68,
+      "feels_like_f": 68.0,
+      "dewpoint_f": 42.0,
+      "humidity_pct": 39,
+      "wind_speed": "2 mph",
+      "wind_direction": "S",
+      "short_forecast": "Partly Cloudy",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-08T20:00:00-04:00",
+      "temperature_f": 65,
+      "feels_like_f": 65.0,
+      "dewpoint_f": 46.0,
+      "humidity_pct": 50,
+      "wind_speed": "2 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Cloudy",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-08T21:00:00-04:00",
+      "temperature_f": 60,
+      "feels_like_f": 60.0,
+      "dewpoint_f": 46.0,
+      "humidity_pct": 60,
+      "wind_speed": "1 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Cloudy",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-08T22:00:00-04:00",
+      "temperature_f": 58,
+      "feels_like_f": 58.0,
+      "dewpoint_f": 47.0,
+      "humidity_pct": 67,
+      "wind_speed": "1 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Cloudy",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-08T23:00:00-04:00",
+      "temperature_f": 57,
+      "feels_like_f": 57.0,
+      "dewpoint_f": 47.0,
+      "humidity_pct": 69,
+      "wind_speed": "2 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Cloudy",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-09T00:00:00-04:00",
+      "temperature_f": 57,
+      "feels_like_f": 57.0,
+      "dewpoint_f": 47.0,
+      "humidity_pct": 69,
+      "wind_speed": "2 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Cloudy",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-09T01:00:00-04:00",
+      "temperature_f": 56,
+      "feels_like_f": 56.0,
+      "dewpoint_f": 48.0,
+      "humidity_pct": 74,
+      "wind_speed": "3 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Cloudy",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-09T02:00:00-04:00",
+      "temperature_f": 56,
+      "feels_like_f": 56.0,
+      "dewpoint_f": 48.0,
+      "humidity_pct": 74,
+      "wind_speed": "5 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Cloudy",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-09T03:00:00-04:00",
+      "temperature_f": 55,
+      "feels_like_f": 55.0,
+      "dewpoint_f": 49.0,
+      "humidity_pct": 80,
+      "wind_speed": "3 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Cloudy",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-09T04:00:00-04:00",
+      "temperature_f": 54,
+      "feels_like_f": 54.0,
+      "dewpoint_f": 50.0,
+      "humidity_pct": 86,
+      "wind_speed": "5 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Cloudy",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-09T05:00:00-04:00",
+      "temperature_f": 54,
+      "feels_like_f": 54.0,
+      "dewpoint_f": 50.0,
+      "humidity_pct": 86,
+      "wind_speed": "5 mph",
+      "wind_direction": "S",
+      "short_forecast": "Partly Cloudy",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-09T06:00:00-04:00",
+      "temperature_f": 54,
+      "feels_like_f": 54.0,
+      "dewpoint_f": 51.0,
+      "humidity_pct": 90,
+      "wind_speed": "5 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Sunny",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-09T07:00:00-04:00",
+      "temperature_f": 55,
+      "feels_like_f": 55.0,
+      "dewpoint_f": 52.0,
+      "humidity_pct": 90,
+      "wind_speed": "5 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Sunny",
+      "precip_pct": 0
+    },
+    {
+      "time": "2026-05-09T08:00:00-04:00",
+      "temperature_f": 58,
+      "feels_like_f": 58.0,
+      "dewpoint_f": 54.0,
+      "humidity_pct": 86,
+      "wind_speed": "5 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Sunny",
+      "precip_pct": 2
+    },
+    {
+      "time": "2026-05-09T09:00:00-04:00",
+      "temperature_f": 61,
+      "feels_like_f": 61.0,
+      "dewpoint_f": 56.0,
+      "humidity_pct": 84,
+      "wind_speed": "5 mph",
+      "wind_direction": "S",
+      "short_forecast": "Partly Sunny",
+      "precip_pct": 4
+    },
+    {
+      "time": "2026-05-09T10:00:00-04:00",
+      "temperature_f": 65,
+      "feels_like_f": 65.0,
+      "dewpoint_f": 57.0,
+      "humidity_pct": 75,
+      "wind_speed": "7 mph",
+      "wind_direction": "S",
+      "short_forecast": "Partly Sunny",
+      "precip_pct": 9
+    },
+    {
+      "time": "2026-05-09T11:00:00-04:00",
+      "temperature_f": 68,
+      "feels_like_f": 68.0,
+      "dewpoint_f": 57.0,
+      "humidity_pct": 68,
+      "wind_speed": "9 mph",
+      "wind_direction": "S",
+      "short_forecast": "Slight Chance Rain Showers",
+      "precip_pct": 16
+    },
+    {
+      "time": "2026-05-09T12:00:00-04:00",
+      "temperature_f": 71,
+      "feels_like_f": 71.0,
+      "dewpoint_f": 57.0,
+      "humidity_pct": 61,
+      "wind_speed": "10 mph",
+      "wind_direction": "S",
+      "short_forecast": "Partly Sunny",
+      "precip_pct": 13
+    },
+    {
+      "time": "2026-05-09T13:00:00-04:00",
+      "temperature_f": 72,
+      "feels_like_f": 72.0,
+      "dewpoint_f": 57.0,
+      "humidity_pct": 59,
+      "wind_speed": "10 mph",
+      "wind_direction": "SW",
+      "short_forecast": "Mostly Sunny",
+      "precip_pct": 12
+    },
+    {
+      "time": "2026-05-09T14:00:00-04:00",
+      "temperature_f": 75,
+      "feels_like_f": 75.0,
+      "dewpoint_f": 58.0,
+      "humidity_pct": 55,
+      "wind_speed": "10 mph",
+      "wind_direction": "SW",
+      "short_forecast": "Mostly Sunny",
+      "precip_pct": 11
+    },
+    {
+      "time": "2026-05-09T15:00:00-04:00",
+      "temperature_f": 75,
+      "feels_like_f": 75.0,
+      "dewpoint_f": 58.0,
+      "humidity_pct": 55,
+      "wind_speed": "10 mph",
+      "wind_direction": "SW",
+      "short_forecast": "Mostly Sunny",
+      "precip_pct": 9
+    },
+    {
+      "time": "2026-05-09T16:00:00-04:00",
+      "temperature_f": 76,
+      "feels_like_f": 76.0,
+      "dewpoint_f": 58.0,
+      "humidity_pct": 54,
+      "wind_speed": "10 mph",
+      "wind_direction": "SW",
+      "short_forecast": "Mostly Sunny",
+      "precip_pct": 9
+    }
+  ],
+  "seven_day_forecast": [
+    {
+      "name": "This Afternoon",
+      "is_daytime": true,
+      "temperature": "72 °F",
+      "wind_speed": "3 mph",
+      "wind_direction": "S",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 72. South wind around 3 mph.",
+      "precip_pct": 0,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Tonight",
+      "is_daytime": false,
+      "temperature": "54 °F",
+      "wind_speed": "1 to 5 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Cloudy",
+      "detailed_forecast": "Mostly cloudy, with a low around 54. South wind 1 to 5 mph.",
+      "precip_pct": 0,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Saturday",
+      "is_daytime": true,
+      "temperature": "77 °F",
+      "wind_speed": "5 to 10 mph",
+      "wind_direction": "S",
+      "short_forecast": "Slight Chance Rain Showers then Mostly Sunny",
+      "detailed_forecast": "A slight chance of rain showers between 11am and noon. Mostly sunny, with a high near 77. South wind 5 to 10 mph, with gusts as high as 18 mph. Chance of precipitation is 20%.",
+      "precip_pct": 16,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Saturday Night",
+      "is_daytime": false,
+      "temperature": "59 °F",
+      "wind_speed": "2 to 8 mph",
+      "wind_direction": "SW",
+      "short_forecast": "Mostly Cloudy",
+      "detailed_forecast": "Mostly cloudy, with a low around 59. Southwest wind 2 to 8 mph.",
+      "precip_pct": 9,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Sunday",
+      "is_daytime": true,
+      "temperature": "84 °F",
+      "wind_speed": "1 to 5 mph",
+      "wind_direction": "SW",
+      "short_forecast": "Mostly Sunny",
+      "detailed_forecast": "Mostly sunny, with a high near 84. Southwest wind 1 to 5 mph.",
+      "precip_pct": 5,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Sunday Night",
+      "is_daytime": false,
+      "temperature": "62 °F",
+      "wind_speed": "5 mph",
+      "wind_direction": "S",
+      "short_forecast": "Partly Cloudy then Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 2am. Partly cloudy, with a low around 62. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible.",
+      "precip_pct": 31,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Monday",
+      "is_daytime": true,
+      "temperature": "75 °F",
+      "wind_speed": "3 to 12 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Showers And Thunderstorms",
+      "detailed_forecast": "Rain showers before 11am, then showers and thunderstorms. Mostly cloudy, with a high near 75. Chance of precipitation is 80%.",
+      "precip_pct": 80,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Monday Night",
+      "is_daytime": false,
+      "temperature": "49 °F",
+      "wind_speed": "5 to 10 mph",
+      "wind_direction": "N",
+      "short_forecast": "Showers And Thunderstorms Likely",
+      "detailed_forecast": "Showers and thunderstorms likely before 2am. Mostly cloudy, with a low around 49. Chance of precipitation is 70%.",
+      "precip_pct": 73,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Tuesday",
+      "is_daytime": true,
+      "temperature": "70 °F",
+      "wind_speed": "3 to 8 mph",
+      "wind_direction": "N",
+      "short_forecast": "Sunny",
+      "detailed_forecast": "Sunny, with a high near 70.",
+      "precip_pct": 4,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Tuesday Night",
+      "is_daytime": false,
+      "temperature": "51 °F",
+      "wind_speed": "0 to 5 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Clear",
+      "detailed_forecast": "Mostly clear, with a low around 51.",
+      "precip_pct": 4,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Wednesday",
+      "is_daytime": true,
+      "temperature": "75 °F",
+      "wind_speed": "5 to 13 mph",
+      "wind_direction": "S",
+      "short_forecast": "Mostly Sunny then Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms after 2pm. Mostly sunny, with a high near 75. Chance of precipitation is 30%.",
+      "precip_pct": 25,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Wednesday Night",
+      "is_daytime": false,
+      "temperature": "55 °F",
+      "wind_speed": "5 to 9 mph",
+      "wind_direction": "SW",
+      "short_forecast": "Chance Showers And Thunderstorms",
+      "detailed_forecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 55. Chance of precipitation is 50%.",
+      "precip_pct": 53,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Thursday",
+      "is_daytime": true,
+      "temperature": "76 °F",
+      "wind_speed": "6 to 10 mph",
+      "wind_direction": "NW",
+      "short_forecast": "Slight Chance Rain Showers then Sunny",
+      "detailed_forecast": "A slight chance of rain showers before 8am. Sunny, with a high near 76.",
+      "precip_pct": 16,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    },
+    {
+      "name": "Thursday Night",
+      "is_daytime": false,
+      "temperature": "53 °F",
+      "wind_speed": "3 to 7 mph",
+      "wind_direction": "N",
+      "short_forecast": "Mostly Clear",
+      "detailed_forecast": "Mostly clear, with a low around 53.",
+      "precip_pct": 11,
+      "dewpoint_f": null,
+      "humidity_pct": null
+    }
+  ],
+  "active_alerts": [],
+  "news_headlines": [
+    {
+      "title": "nchurrprepweek2026",
+      "summary": "This week is North Carolina Hurricane Preparedness Week",
+      "url": "https://api.weather.gov/offices/RAH/headlines/7f77732213b1ce424fd1ed8bfa93f03d",
+      "issued": "2026-05-04T14:48:00+00:00"
+    },
+    {
+      "title": "nationalhurricanepreparednessweekismay3-92026",
+      "summary": "National Hurricane Preparedness Week is May 3-9, 2026!",
+      "url": "https://api.weather.gov/offices/RAH/headlines/80be70e32315c9aa5fa5a81f8a6949f3",
+      "issued": "2026-04-21T17:24:00+00:00"
+    }
+  ]
+}
